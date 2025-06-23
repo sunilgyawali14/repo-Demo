@@ -1,3 +1,3 @@
 # repo-Demo
 <br>
-author - Sunil Gyawali c
+author - Sunil Gyawali 
